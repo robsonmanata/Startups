@@ -1,0 +1,18 @@
+@import '~bootstrap/scss/bootstrap';
+
+$theme-colors: (
+  "primary": #6be2ac,
+  "danger": #ff4136
+);
+.navbar{
+    background-color: white;
+}
+.hamburgerMenu{
+
+    text-align: right;
+    background-color: green;
+    border: none;
+    
+    
+}
+@import '~bootstrap/scss/bootstrap';

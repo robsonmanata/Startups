@@ -1,0 +1,39 @@
+$sectionColor:  #FFF;
+
+.Wecreate{
+    background: $sectionColor;
+    h1{
+         color: #3D4F5C;
+         font-family: Circular Std;
+         font-size: 30px;
+         font-style: normal;
+         font-weight: 700;
+         line-height: 85px; /* 100% */
+         letter-spacing: -1.7px;
+         text-align: center;
+           }
+
+       p{
+        color: var(--Primary-Orange, #FB8958);
+        font-family: Circular Std;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px; /* 125% */
+        letter-spacing: -0.24px;
+        text-align: center;
+       }
+       button{
+        border-radius: 32.5px;
+        background: #46B8C8;
+        color: white;
+        width: 157px;
+        height: 45px;
+        flex-shrink: 0;
+        border-color: #46B8C8;
+       }
+       img{
+        max-inline-size: 100%;
+  block-size: auto;
+       }
+}

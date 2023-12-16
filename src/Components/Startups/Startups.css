@@ -1,0 +1,10 @@
+.startups{
+    color: var(--Primary-Orange, #FB8958);
+text-align: center;
+font-family: Circular Std;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 45px; /* 112.5% */
+letter-spacing: -0.4px;
+}
